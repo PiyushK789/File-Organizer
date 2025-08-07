@@ -8,6 +8,13 @@
 - Two Python files for easy separation of concerns: GUI and backend
 - Cross-platform compatibility
 
+> Starting Application
+<img width="452" height="322" alt="image" src="https://github.com/user-attachments/assets/c9477a20-ad0f-4f86-89a8-4b35c2f4c6e4" />
+
+> Time Taken to Organize
+<img width="322" height="152" alt="image" src="https://github.com/user-attachments/assets/4cd591fe-9f26-445a-a20b-a3d10dfd3bd4" />
+
+
 ### How it works:
 The program scans a specified directory, identifies file extensions, and moves the files into corresponding folders based on their extensions. The program categorizes various types of files such as `.png`, `.jpg`, `.pdf`, `.exe`, and more, making file organization simple and efficient.
 
